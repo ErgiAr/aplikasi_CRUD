@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "948133687228",
+    "project_id": "datateman-70013",
+    "storage_bucket": "datateman-70013.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948133687228:android:cfe6d7c9b9c54ac73945b9",
+        "android_client_info": {
+          "package_name": "com.ergi.datateman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948133687228-gdnlte6fe5e3e60ne6be1pt1njfsig5m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr9OSR5jFl22skoAAytkvV9fZjPnhONkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948133687228-gdnlte6fe5e3e60ne6be1pt1njfsig5m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
